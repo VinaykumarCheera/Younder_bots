@@ -1,0 +1,1 @@
+UPDATE employees SET salary = 55000 WHERE name = 'John Doe';
